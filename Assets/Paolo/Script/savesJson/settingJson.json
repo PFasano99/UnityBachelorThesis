@@ -1,0 +1,14 @@
+{
+    "Save": [
+        {
+            "sensitivity": 80.0,
+            "rotationAmmount": 50.0,
+            "zoomIn": 21.0,
+            "zoomOut": 88.0,
+            "decalTimer": 16.0,
+            "language": "ITA",
+            "maxUp": 8.0,
+            "maxDown": 1.0
+        }
+    ]
+}
